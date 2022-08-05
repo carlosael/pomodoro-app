@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       olá mundo
       <PomodoroTimer
-        defaultPomodoroTimer={1500}
+        defaultPomodoroTimer={0}
         defaultShortBreakTimer={300}
         defaultLongBreakTimer={900}
       ></PomodoroTimer>
